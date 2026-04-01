@@ -1,1 +1,4 @@
-This file is about a simple calculation,which will done minor operations.
+This is my first program uploaded to git
+## How to Run
+gcc main.c -o main
+./main
